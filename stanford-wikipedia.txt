@@ -1,0 +1,4 @@
+Thomas/PERSON Cruise/PERSON Mapother/PERSON IV/O (/O born/O July/O 3/O ,/O 1962/O )/O is/O an/O American/O actor/O and/O producer/O ./O 
+Regarded/O as/O a/O Hollywood/LOCATION icon/O ,/O he/O has/O received/O various/O accolades/O ,/O including/O an/O Honorary/O Palme/O d'Or/O and/O three/O Golden/O Globe/O Awards/O ,/O in/O addition/O to/O nominations/O for/O four/O Academy/O Awards/O ./O 
+His/O films/O have/O grossed/O over/O $/O 5/O billion/O in/O North/LOCATION America/LOCATION and/O over/O $/O 12/O billion/O worldwide/O ,/O placing/O him/O among/O the/O highest/O -/O grossing/O actors/O of/O all/O time/O ./O 
+Cruise/O holds/O the/O Guinness/O World/O Record/O for/O the/O most/O consecutive/O $/O 100/O -/O million/O -/O grossing/O movie/O 

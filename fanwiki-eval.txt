@@ -1,0 +1,1 @@
+Usage: ./eval.sh <gold-standard-file> <ner-output-file> <eval-output-file>
